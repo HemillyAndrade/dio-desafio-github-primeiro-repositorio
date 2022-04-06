@@ -2,9 +2,10 @@
 # dio-desafio-github-primeiro-repositorio
 Desafio de projeto sobre git/github
 
-## Links Úteis
-###Guia de sintaxe Marcdown
-[Sintaxe_Basica_Marckdown](https://www.markdownguide.org/basic-syntax/)
+## Links Úteis  
 
-###Guia de comandos Git
+##Guia de sintaxe Marcdown:
+[Sintaxe_Basica_Marckdown](https://www.markdownguide.org/basic-syntax/)  
+
+##Guia de comandos Git:
 [comandos_git](https://comandosgit.github.io/)
